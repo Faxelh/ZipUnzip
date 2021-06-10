@@ -25,7 +25,7 @@ clear; sudo apt-get update ; git clone https://github.com/threat0/ZipUnzip.git ;
 clear; pkg update; git clone https://github.com/threat0/ZipUnzip.git ; cd ZipUnzip ; python3 setup.py
 ```
 __________________________________
-#` *Remarque*`
+# ` *Remarque*`
 ```
 Pour dézipper un fichier il faudrait copier et coller le fichier zipper dans le dossier racine.
 ```
